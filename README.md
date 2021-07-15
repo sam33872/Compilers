@@ -13,4 +13,4 @@ Lexical correctness test by taking arbitrary strings as input and returns either
      
 Develop a parser for a simple context free grammar below.
 
-![](./images/simpleCFG.png)
+![](./images/simpleCFG.PNG)
